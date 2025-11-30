@@ -294,8 +294,9 @@ Planned and aspirational extensions for Black Light AI include:
 
 Add your public resources here once available:
 
-- **YouTube overview:** [_TBD_](https://www.youtube.com/watch?v=GmU_dUrl0q8)
-- **Kaggle notebook:**  [_TBD_](https://www.kaggle.com/code/codenameanirban/black-light-ai)
+- **YouTube overview:** [_Link](https://www.youtube.com/watch?v=GmU_dUrl0q8)
+- **Kaggle notebook:**  [_Link_](https://www.kaggle.com/code/codenameanirban/black-light-ai)
+- **Medium article:**  [_Link_](https://medium.com/@anirbanhalderhp/black-light-ai-autonomous-cyber-threat-risk-intelligence-4f5d03faa1d6)
 
 ---
 
