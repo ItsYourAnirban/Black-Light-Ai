@@ -40,6 +40,8 @@ Black Light AI acts as a **virtual security analyst**: it ingests noisy scan dat
 
 Black Light AI is implemented as a **multi‑agent pipeline** rather than a single, monolithic LLM prompt. This keeps each step focused, reduces context size, and improves accuracy when working with large scan logs.
 
+![Work flow](./result_0.jpg)
+
 All logic lives in the notebook **`BlackLightAI.ipynb`**, which implements a sequential multi‑agent pipeline:
 
 1. **Environment Setup (master cell)**
