@@ -294,15 +294,15 @@ Planned and aspirational extensions for Black Light AI include:
 
 Add your public resources here once available:
 
-- **YouTube overview:** _TBD_
-- **Kaggle notebook:** _TBD_
+- **YouTube overview:** [_TBD_](https://www.youtube.com/watch?v=GmU_dUrl0q8)
+- **Kaggle notebook:**  [_TBD_](https://www.kaggle.com/code/codenameanirban/black-light-ai)
 
 ---
 
 ## 📂 Project Structure
 
 - `BlackLightAI.ipynb` – main notebook containing all agents and pipeline code.
-- `Gemini_Generated_Image_97v5lg97v5lg97v5.png` – cover image used in this README.
+- `Blacklightbanner.png` – cover image used in this README.
 - `artifacts/` – generated at runtime with normalized findings and final reports.
 
 ---
@@ -311,8 +311,8 @@ Add your public resources here once available:
 
 **Team TRIPOD – @TriPod**
 
+- Anirban Halder
 - Vishwas Kura
-- Anirban
 - Mehak Aeora
 
 Built during the **5‑Day AI Agents Intensive with Google**, November 2025.
