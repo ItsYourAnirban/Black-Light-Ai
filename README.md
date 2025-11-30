@@ -1,6 +1,6 @@
 # Black Light AI: Autonomous Cyber Threat & Risk Intelligence
 
-![Black Light AI banner](./Gemini_Generated_Image_97v5lg97v5lg97v5.png)
+![Black Light AI banner](./Blacklightbanner.png)
 
 Black Light AI is an autonomous, multi‑agent cybersecurity assistant that automates the full lifecycle of web application vulnerability assessment – from reconnaissance and scanning to risk scoring and executive‑grade reporting.
 
